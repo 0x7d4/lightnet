@@ -1,7 +1,8 @@
 # lightnet
 Simple educational-intended deep learning library.
 
-This library is an experimental implementation playground for me to strenghen my theory knowlodge in the field. I think it helps me or anyone
+> **Note**
+> This library is an experimental implementation playground for me to strenghen my theory knowlodge in the field. I think it helps me or anyone
 in the path of learning to have a clearer view of modules for not only a deeper grasp, but for new ideas in the manner of architectures or optimizations.
 
 ## Interface
